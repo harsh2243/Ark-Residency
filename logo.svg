@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ark Residency logo</title>
+  <desc id="desc">Stylized ARK Residency logo with navy and gold lettering.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#c59b58" />
+      <stop offset="100%" stop-color="#b88a3f" />
+    </linearGradient>
+    <linearGradient id="navy" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#173a63" />
+      <stop offset="100%" stop-color="#102945" />
+    </linearGradient>
+  </defs>
+  <rect width="760" height="760" fill="#ffffff" />
+  <g transform="translate(380 335)">
+    <path d="M-195 120 C-145 95,-112 55,-78 -10 C-40 -82,-8 -150,3 -170 C18 -143,45 -78,76 -8 C108 62,148 98,207 120" fill="none" stroke="url(#navy)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-182 134 C-102 98,-16 84,66 86 C131 88,184 102,234 130" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/>
+    <rect x="-20" y="-58" width="18" height="18" fill="url(#gold)"/>
+    <rect x="2" y="-58" width="18" height="18" fill="url(#gold)"/>
+    <rect x="-20" y="-36" width="18" height="18" fill="url(#gold)"/>
+    <rect x="2" y="-36" width="18" height="18" fill="url(#gold)"/>
+    <text x="0" y="254" text-anchor="middle" fill="url(#navy)" font-family="Georgia, 'Times New Roman', serif" font-size="118" letter-spacing="14">ARK</text>
+    <line x1="-248" y1="252" x2="-160" y2="252" stroke="url(#gold)" stroke-width="3" />
+    <line x1="160" y1="252" x2="248" y2="252" stroke="url(#gold)" stroke-width="3" />
+    <text x="0" y="334" text-anchor="middle" fill="url(#gold)" font-family="Poppins, Arial, sans-serif" font-size="50" letter-spacing="10">RESIDENCY</text>
+    <line x1="-84" y1="368" x2="-24" y2="368" stroke="url(#gold)" stroke-width="2" />
+    <path d="M0 360 l10 10 l-10 10 l-10 -10 z" fill="url(#gold)" />
+    <line x1="24" y1="368" x2="84" y2="368" stroke="url(#gold)" stroke-width="2" />
+  </g>
+</svg>
